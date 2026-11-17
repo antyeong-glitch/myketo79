@@ -23,16 +23,43 @@
 
 세포라 코리아가 2024년에 철수하면서 **한국 세포라 앱도 서비스가 끝났어요.** 미국 세포라 앱은 한국 계정 앱스토어·구글 플레이에서 검색해도 나오지 않는 경우가 많아요. 그래서 여행자는 **미국 세포라 웹사이트**나 **뉴욕 매장**에서 가입하는 게 제일 간단해요.
 
-# 웹사이트로 가입하기 (휴대폰 브라우저 OK)
+# 웹사이트로 가입하기
 
-1. 휴대폰이나 PC 브라우저에서 **sephora.com**에 들어가요
-2. 국가 선택이 나오면 **United States**를 골라요
-3. 오른쪽 위 **Sign In → Create Account**를 눌러요
-4. 이름, 이메일, 비밀번호를 입력해요
-5. **생일(월/일)**을 꼭 입력해요. 생일 선물이 이 날짜 기준으로 나와요
-6. **Join Beauty Insider**에 체크하고 가입을 마치면 끝이에요
+**1. sephora.com 접속 → Sign In → Create Account**
 
-전화번호는 선택 항목이라 비워둬도 돼요. 가입한 뒤 휴대폰 브라우저에서 sephora.com을 **홈 화면에 추가**해 두면 앱처럼 포인트와 쿠폰을 바로 확인할 수 있어요.
+![세포라 웹사이트 Sign In 창과 Create Account 버튼](media:med_c705749c9ae6a6e6) {.center}
+
+sephora.com에 들어가 오른쪽 위 **Sign In**을 누르면 로그인 창이 떠요. 아래쪽 **New to Sephora?** 밑의 **Create Account**를 눌러요.
+
+**2. 이메일 주소 입력 → Continue → Okay**
+
+![뷰티 인사이더 Create Account 이메일 입력 화면](media:med_fc856dcde5e76315) {.center}
+
+가입할 이메일 주소를 적고 **Continue**를 눌러요. 이메일 주소를 한 번 더 확인하는 창이 나오면 맞는지 보고 **Okay**를 눌러요.
+
+**3. 메일함에서 Verify Account 클릭**
+
+![세포라 Verify your account 인증 메일](media:med_a82f88a834ea42ff) {.center}
+
+적은 이메일의 받은편지함에 **Verify your account** 메일이 와 있어요. 메일 속 **Verify Account** 버튼을 누르면 돼요. 이 링크는 **24시간 안에** 눌러야 해요.
+
+**4. 나머지 정보 입력하고 가입 완료**
+
+![뷰티 인사이더 Complete Account Setup 정보 입력 화면](media:med_75fcebc998294a4b) {.center}
+
+세포라 사이트로 다시 연결되면서 **Complete Account Setup** 창이 떠요. 아래 칸을 채우면 가입이 끝나요.
+
+| 입력 칸 | 적는 방법 |
+|---|---|
+| First Name · Last Name | 이름 · 성 (영문) |
+| Password | 6~12자 |
+| Phone Number | 안 적어도 돼요 |
+| 문자 수신 체크 | 체크 안 해도 돼요 |
+| Month · Day | 생일 월·일 · 매년 생일 선물 기준 |
+| ZIP/Postal Code | 선택 항목이라 비워둬도 돼요 |
+{.table3 .headbg=#fde4e8}
+
+생일은 꼭 입력하세요. 매년 생일 달에 무료 선물을 받을 수 있어요. 가입하면 온라인 주문 **기본 배송 무료** 혜택도 생겨요.
 
 # 매장에서 가입하기
 
