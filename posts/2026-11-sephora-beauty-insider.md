@@ -71,7 +71,9 @@ sephora.com에 들어가 오른쪽 위 **Sign In**을 누르면 로그인 창이
 
 생일이 있는 달에는 등급과 상관없이 생일 선물을 하나 고를 수 있어요. 2026년 라인업은 이렇게 나왔어요.
 
-@group(media:med_866fc5102ba8d6a2, media:med_783db579ea22395e, media:med_7eac468103be2e6f, media:med_a81c5b69a26dda35) {.center}
+@group(media:med_866fc5102ba8d6a2, media:med_783db579ea22395e) {.center}
+
+@group(media:med_7eac468103be2e6f, media:med_a81c5b69a26dda35) {.center}
 
 | 브랜드 | 선물 구성 |
 |---|---|
