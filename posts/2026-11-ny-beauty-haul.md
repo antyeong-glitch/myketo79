@@ -12,8 +12,6 @@
 
 @card(https://blog.naver.com/myketo79/224480272879)
 
-@map(1500 Broadway New York | 555 Broadway New York)
-
 ## Rare Beauty 소프트 핀치 리퀴드 블러시
 
 @group(media:med_e9ac98c50e96ca4e, media:med_3e2075d98b1091a2) {.center}
@@ -107,8 +105,6 @@
 
 글로시에는 한국 매장이 없어서 뉴욕 가면 꼭 들르는 곳이에요. 소호 72 Spring Street 플래그십은 매장 자체가 포토존이라 구경하는 재미도 커요. 올해는 뉴욕주 관광청과 'I Love NY' 협업으로 사과맛 밤닷컴을 내놨고, 소호 매장에서만 파는 뉴욕 굿즈(키링, 티셔츠, 모자, 스티커)도 있어요.
 
-@map(72 Spring St New York)
-
 | 추천템 | 정가 | 포인트 |
 |---|:---:|---|
 | 밤닷컴 Balm Dotcom | $16 | 립·건조 부위 멀티밤 · I Love NY 맛 |
@@ -122,8 +118,6 @@
 ![울타 뷰티 매장 외관](media:med_17823f51a36c76b2) {.center}
 
 울타는 드럭스토어 브랜드와 백화점 브랜드를 한 매장에서 같이 파는 곳이에요. 맨해튼에는 헤럴드 스퀘어(51 W 34th St)와 어퍼이스트(188 E 86th St) 매장이 있고, 2027년에는 타임스스퀘어에 대형 플래그십이 생길 예정이에요. 무료 회원 **Ulta Beauty Rewards**에 가입하면 적립이 돼요.
-
-@map(51 W 34th St New York | 188 E 86th St New York)
 
 | 추천템 | 정가 | 포인트 |
 |---|:---:|---|
@@ -143,8 +137,6 @@
 @group(media:med_189357ef88bae97d, media:med_2af76022587e8f8d, media:med_052a8e76f804e8f0) {.center}
 
 길마다 하나씩 보이는 CVS, 듀안리드(Duane Reade), 그리고 Target은 젠지 인기템이 몰려 있는 가성비 구역이에요. 'Buy 1 Get 1 50%' 같은 묶음 할인이 자주 있어서 한 번에 사는 게 이득이에요.
-
-@map(112 W 34th St New York)
 
 **e.l.f. 파워 그립 프라이머**는 틱톡에서 '명품 프라이머 대체품'으로 뜬 젤 프라이머예요. 한국 정식 유통이 없는데 1만 원대라 지인 선물로 여러 개 사 오기 좋아요.
 
