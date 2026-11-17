@@ -4,23 +4,6 @@
 
 그래서 이번엔 **인플루언서들이 쓰고, MZ·젠지가 줄 서서 사는 미국 화장품**을 매장별로 전부 모았어요. 가격은 2026년 11월 각 브랜드 미국 공식몰 기준 세전 정가이고, 매장 세일에 따라 달라질 수 있어요.
 
-# 인플루언서·MZ·젠지 인기템 한눈에
-
-| 제품 | 왜 유명할까 | 정가 | 어디서 |
-|---|---|:---:|---|
-| Rare Beauty 리퀴드 블러시 | 셀레나 고메즈 브랜드 · 틱톡 블러시 대란 | $25 | Sephora |
-| rhode 펩타이드 립 틴트 | 헤일리 비버 · 폰케이스 립 꽂기 유행 | $20 | Sephora |
-| rhode 포켓 블러시 | 스틱 블러시 인증샷 필수템 | $25 | Sephora |
-| Fenty 글로스 밤 | 리한나 브랜드 · 셀럽 글로스 원조 | $23 | Sephora |
-| Summer Fridays 립 버터 밤 | 인플루언서 파우치 단골 | $24 | Sephora · Target |
-| Sol de Janeiro 범범 크림 | 젠지가 꼽는 '향 맛집' 바디크림 | $48 | Sephora · Ulta |
-| Gisou 허니 헤어 오일 | 인플루언서 창업 · 꿀 향 헤어오일 | $40 | Sephora |
-| Glossier 밤닷컴 | 밀레니얼 원조 감성 브랜드 | $16 | Glossier 소호 |
-| Touchland 핸드 미스트 | 젠지 '향 수집' 손소독제 | $10 | Target · Ulta |
-| Starface 하이드로 스타 | 별 모양 여드름 패치 · 젠지 필수템 | $11~15 | Target · CVS |
-| e.l.f. 파워 그립 프라이머 | 틱톡 '명품 프라이머 대체품' | $10~11 | Ulta · Target · CVS |
-{.table3 .headbg=#fde4e8}
-
 # 1. 세포라 Sephora
 
 맨해튼에만 매장이 10곳이 넘어서 동선 짜기가 제일 편해요. 타임스스퀘어, 소호 브로드웨이, 헤럴드 스퀘어 쪽 매장이 크고 재고도 많아요. 들어가기 전에 앱에서 **Beauty Insider** 무료 회원가입을 해두면 포인트 적립과 생일 선물까지 챙길 수 있어요.
@@ -223,6 +206,10 @@
 # 하루 쇼핑 동선
 
 ![맨해튼 뷰티 쇼핑 지도](media:med_edd03ba04da09bd8) {.center}
+
+네이버 지도로도 매장 위치를 담아뒀어요. 눌러서 길찾기에 바로 쓰세요.
+
+@map(Glossier New York | Sephora SoHo | Ulta Beauty Herald Square | Sephora Times Square | Ulta Beauty 86th Street)
 
 
 | 순서 | 지역 | 들를 곳 |
