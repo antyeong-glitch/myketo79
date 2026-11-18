@@ -6,7 +6,7 @@
 
 @card(https://blog.naver.com/myketo79/224482554182)
 
-@card(POST2URL)
+@card(https://blog.naver.com/myketo79/224482558005)
 
 # 맨해튼 매장 정보
 
@@ -99,6 +99,6 @@
 - **세금은 품목마다 달라요.** 뉴욕시 판매세는 8.875%이고, 일반 식료품은 면세지만 과자·생활용품·조리된 음식에는 세금이 붙어요
 - **입국 면세 한도는 1인 미화 800달러예요**
 
-세 편에 걸쳐 트레이더조, 타겟, 홀푸드를 정리했어요. 미니 토트 세 개 모으는 것만으로도 뉴욕 마트 투어 기분이 확 나더라고요. 장바구니 짤 때 참고하세요!
+세 편에 걸쳐 트레이더조, 타겟, 홀푸드를 정리했어요. 트레이더조와 홀푸드 미니 토트만 챙겨 와도 뉴욕 마트 투어 기분이 확 나더라고요. 장바구니 짤 때 참고하세요!
 
 매장 사진: Wikimedia Commons (Columbus Circle: Nielsoncaetanosalmeron, CC BY 4.0 · Union Square: Jess Hawsor, CC BY-SA 4.0) / 제품 사진 출처: Woman's World, Tasting Table, Sporked {.size=13 .color=#8b7c86}
